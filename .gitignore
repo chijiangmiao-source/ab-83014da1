@@ -2,6 +2,8 @@
 .env
 .venv/
 node_modules/
+dist/
+.npm-cache/
 __pycache__/
 .pytest_cache/
 .mypy_cache/
@@ -10,3 +12,4 @@ __pycache__/
 .nox/
 *.pyc
 *.pyo
+*.log
