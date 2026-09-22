@@ -1,12 +1,7 @@
+node_modules/
+dist/
+.npm-cache/
+coverage/
+*.log
 .DS_Store
 .env
-.venv/
-node_modules/
-__pycache__/
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-.tox/
-.nox/
-*.pyc
-*.pyo
